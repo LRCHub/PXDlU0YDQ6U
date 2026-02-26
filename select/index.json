@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Linger",
+  "base_artist": "The Cranberries",
+  "createdAt": "2026-02-26T17:05:02.864706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Linger",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/01_Linger_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Linger",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/02_Linger_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Linger With Pleasure",
+      "artist": "Ane Brun",
+      "has_synced": true,
+      "path": "select/03_Linger_With_Pleasure_Ane_Brun.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Linger (Dave Bascombe Mix)",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/04_Linger_(Dave_Bascombe_Mix)_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Linger (Early Demo)",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/05_Linger_(Early_Demo)_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Linger - Live At Féile, Tipperary, Ireland / 1994",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/06_Linger_-_Live_At_Féile,_Tipperary,_Ireland___1994_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Linger (Live at Féile, Tipperary, July 31, 1994)",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/07_Linger_(Live_at_Féile,_Tipperary,_July_31,_1994)_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Linger",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/08_Linger_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Linger",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/09_Linger_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Linger (Live in Madrid)",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/10_Linger_(Live_in_Madrid)_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Linger",
+      "artist": "Jonatha Brooke",
+      "has_synced": true,
+      "path": "select/11_Linger_Jonatha_Brooke.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Linger - Piano Version",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/12_Linger_-_Piano_Version_Epica.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Linger (Piano Version)",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/13_Linger_(Piano_Version)_Epica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Linger",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/pl_01_Linger_The_Cranberries.txt"
+    }
+  ]
+}
